@@ -105,17 +105,14 @@ display: block;
  .community {
   margin-left: 230px;
   margin-top: 300px;
-  width: 1000px;
  }
 
  .filter {
- margin-left: 1100px;
- display: block;
- margin-top: -85px;
- width: 300px;
+ margin-left: 1250px;
+ margin-top: -100px;
+display: block;
 
-
-
+  
  }
 
 
