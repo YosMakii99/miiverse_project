@@ -23,7 +23,7 @@
     display: block;
     margin-top: -110px;
     width: 205px;
-    margin-right: 120px;
+    margin-right: 70px;
 }
   
 .feed {
@@ -354,9 +354,16 @@ display: block;
 width: 900px;
   }
   
+  @font-face {
+    font-family: 'MiiverseSymbols';
+    src: url('MiiverseSymbols-Regular%20.ttf') format('truetype');
+  }
   
+  body {
+    font-family: 'MiiverseSymbols', sans-serif;
+  }
   
-  
+  src: url('fonts/MiiverseSymbols.ttf') format('truetype');
   
   ----------------------------------------------------------------------------------------------
 .image-right {
