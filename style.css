@@ -21,15 +21,15 @@
   
   .usericonformii {
     display: block;
-    margin-top: -70px;
-    width: 185px;
+    margin-top: -90px;
+    width: 200px;
     margin-right: 120px;
 }
   
 .feed {
    display: block;
    margin-top: -0px;
-   width: 185px;
+   width: 200px;
   
 }
 
@@ -44,18 +44,18 @@ display: block;
    display: block;
    margin-top: ;
    margin-top: -10;
-  width: 185px;
+  width: 200px;
   
 }
   
 .message_wiiu {
     display: block;
-    width: 185px;
+    width: 200px;
   }
   
   .notifications {
-   margin-left: 5px;
-    width: 180px;
+   margin-left: 0px;
+    width: 200px;
   }
   
   .back {
