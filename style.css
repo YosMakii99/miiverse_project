@@ -22,8 +22,8 @@
   
   .usericonformii {
     display: block;
-    margin-top: -105px;
-    width: 205px;
+    margin-top: -115px;
+    width: 220px;
     margin-right: 170px;
 }
   
@@ -31,9 +31,21 @@
    display: block;
    margin-top: -2px;
    margin-left: 1px;
-   width: 205px;
+   width: 220px;
   
 }
+
+.banner2 {
+margin-left: 1000px;
+width: 1300px;
+margin-top: -120px;
+display: block;
+
+}
+
+
+
+
 
 .region {
 width: 700px;
@@ -46,27 +58,27 @@ display: block;
    display: block;
    margin-top: ;
    margin-top: -5;
-  width: 205px;
+  width: 220px;
   
 }
   
 .message_wiiu {
     display: block;
-    width: 205px;
+    width: 220px;
   }
   
   .notifications {
-   margin-left: 0px;
-    width: 205px;
+   margin-left: 3px;
+    width: 217px;
   }
   
   .back {
   
     display: block;
     margin: -20px;
-    width: 210px;
+    width: 220px;
     margin-top: -10px;
-    margin-left: -5px;
+    margin-left: -0px;
   }
   
   .se{
@@ -98,9 +110,10 @@ display: block;
   
   .favorites {
   width: 550px;
-  margin-left: 1195px;
+  margin-left: 1300px;
   margin-top: -93px;
   display: block;
+  position: absolute;
   }
   
   .wiu {
