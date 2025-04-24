@@ -21,51 +21,50 @@
   
   .usericonformii {
     display: block;
-    margin-top: -105px;
-    width: 205px;
-    margin-right: 170px;
+    margin-top: -70px;
+    width: 185px;
+    margin-right: 120px;
 }
   
 .feed {
    display: block;
-   margin-top: -2px;
-   margin-left: 1px;
-   width: 205px;
+   margin-top: -0px;
+   width: 185px;
   
 }
 
 .region {
 width: 700px;
 margin-left: 350px;
-margin-top: -115px;
+margin-top: -120px;
 display: block;
-}
+  }
   
 .communites {
    display: block;
    margin-top: ;
-   margin-top: -5;
-  width: 205px;
+   margin-top: -10;
+  width: 185px;
   
 }
   
 .message_wiiu {
     display: block;
-    width: 205px;
+    width: 185px;
   }
   
   .notifications {
-   margin-left: 0px;
-    width: 205px;
+   margin-left: 5px;
+    width: 180px;
   }
   
   .back {
   
     display: block;
     margin: -20px;
-    width: 210px;
-    margin-top: -10px;
-    margin-left: -5px;
+    width: 200px;
+    margin-top: -15px;
+    margin-left: 0px;
   }
   
   .se{
@@ -97,7 +96,7 @@ display: block;
   
   .favorites {
   width: 550px;
-  margin-left: 1px;
+  margin-left: 1200px;
   margin-top: -93px;
   display: block;
   }
