@@ -96,12 +96,29 @@ display: block;
   
   .favorites {
   width: 550px;
-  margin-left: 1190px;
+  margin-left: 1187px;
   margin-top: -100px;
   display: block;
   position: absolute;
   }
   
+ .community {
+  margin-left: 230px;
+  margin-top: 300px;
+  width: 1000px;
+ }
+
+ .filter {
+ margin-left: 1100px;
+ display: block;
+ margin-top: -85px;
+ width: 300px;
+
+
+
+ }
+
+
   .wiu {
   
   width: 170px;
@@ -356,7 +373,7 @@ margin-left: 500px;
   }
   
   .banner2 {
-margin-left: 850px;
+margin-left: 840px;
 margin-top: -118px;
 display: block;
 width: 900px;
@@ -370,8 +387,7 @@ width: 900px;
   body {
     font-family: 'MiiverseSymbols', sans-serif;
   }
-  
-  src: url('fonts/MiiverseSymbols.ttf') format('truetype');
+
   
   ----------------------------------------------------------------------------------------------
 .image-right {
