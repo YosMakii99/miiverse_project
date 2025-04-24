@@ -110,7 +110,8 @@ display: block;
  .filter {
  margin-left: 1250px;
  margin-top: -100px;
-display: block;
+ display: block;
+ width: 380px;
 
   
  }
