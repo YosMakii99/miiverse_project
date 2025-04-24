@@ -140,7 +140,7 @@ display: block;
   
   .mk8 {
   margin-top: 50px;
-  width: 160px;
+  width: 151px;
   margin-left: 255px;
   border-radius: 25px;
   
@@ -297,15 +297,41 @@ display: block;
   
   .invisible {
     display: flex;
-    gap: 6px;
-    border-bottom: 6px dashed #aaaaaa;
-    padding-bottom: 6px;
-    margin-bottom: 6px;
-    width: 600px;
-    margin-left: 250px;
-    margin-top: -220px;
+  align-items: center;
+  gap: 9px;
+  border-bottom: 6px dashed #aaaaaa;
+  border-radius: 10px;
+  padding: 90px 300px;
+  margin-top: -115px;
+  width: 400px;
+  height: 90px; /* ajusta la altura para que no sea tan alto */
+  text-decoration: none;
+ margin-left: 250px;
+
+  transition: transform 0.2s ease;
+  margin-bottom: 620px;
+
   }
+
+.shantae {
+ margin-left: 890px;
+ margin-top: -800px;
+ display: block;
+ width: 151px;
+ border-radius: 25px;
+}
+
+
   
+ .linkas{
+ margin-left: 1000px;
+ width: 200px;
+
+ }
+ 
+
+
+
   .splatoon {
     padding: 10px 20px;
     cursor: pointer;
