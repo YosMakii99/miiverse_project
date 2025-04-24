@@ -8,7 +8,6 @@
   }
   .borde {
   margin-top: -250px;
-  margin-left: 0px;
 
   
   
@@ -22,7 +21,7 @@
   
   .usericonformii {
     display: block;
-    margin-top: -115px;
+    margin-top: -105px;
     width: 205px;
     margin-right: 170px;
 }
@@ -34,18 +33,6 @@
    width: 205px;
   
 }
-
-.banner2 {
-margin-left: 1000px;
-width: 1300px;
-margin-top: -70px;
-display: block;
-
-}
-
-
-
-
 
 .region {
 width: 700px;
@@ -68,7 +55,7 @@ display: block;
   }
   
   .notifications {
-   margin-left: 3px;
+   margin-left: 0px;
     width: 205px;
   }
   
@@ -76,9 +63,9 @@ display: block;
   
     display: block;
     margin: -20px;
-    width: 205px;
+    width: 210px;
     margin-top: -10px;
-    margin-left: -0px;
+    margin-left: -5px;
   }
   
   .se{
@@ -110,10 +97,9 @@ display: block;
   
   .favorites {
   width: 550px;
-  margin-left: 1300px;
+  margin-left: 1px;
   margin-top: -93px;
   display: block;
-  position: absolute;
   }
   
   .wiu {
@@ -143,18 +129,6 @@ display: block;
   
   }
   
-  .borde2 {
- width: 500px;
- margin-left: 1000px;
- margin-top: -40px;
- display: block;
-
-
-
-
-
-  }
-
   .icon_tag {
   
   margin-top: -200px;
