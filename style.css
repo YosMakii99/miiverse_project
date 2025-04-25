@@ -96,7 +96,7 @@ display: block;
   
   .favorites {
   width: 550px;
-  margin-left: 1187px;
+  margin-left: 1182px;
   margin-top: -100px;
   display: block;
   position: absolute;
@@ -105,7 +105,7 @@ display: block;
  .community {
   margin-left: 230px;
   margin-top: 300px;
-  width: 1200px;
+  width: 1300px;
  }
 
  .filter {
@@ -315,9 +315,9 @@ display: block;
 
 .shantae {
  margin-left: 890px;
- margin-top: -800px;
+ margin-top: -60px;
  display: block;
- width: 151px;
+ width: 145px;
  border-radius: 25px;
 }
 
@@ -429,7 +429,7 @@ margin-left: 500px;
   }
   
   .banner2 {
-margin-left: 840px;
+margin-left: 835px;
 margin-top: -118px;
 display: block;
 width: 900px;
@@ -610,12 +610,22 @@ margin-left: 450px;
 .users{
 margin-left: 380px;
 margin-top: 40px;
-width: 1100px;
+width: 1200px;
 border-radius: 25px;
 
 
 
 }
+
+.ejs {
+
+ margin-left: 1060px;
+ margin-top: -796px;
+
+
+}
+
+
 
 
 .wiiiu{
@@ -626,4 +636,131 @@ display: block;
 
 
 }
+
+.commun {
+ display: flex;
+  align-items: center;
+  gap: 9px;
+  border-bottom: 6px dashed #aaaaaa;
+  border-radius: 10px;
+  padding: 90px 350px;
+  margin-top: -125px;
+  width: 400px;
+  height: 90px; /* ajusta la altura para que no sea tan alto */
+  text-decoration: none;
+ margin-left: 870px;
+
+
+}
+
+.tag {
+
+
+ margin-left: 1050px;
+  margin-top: -50px;
+  display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
