@@ -310,7 +310,7 @@ display: block;
   transition: transform 0.2s ease;
   margin-bottom: 620px;
 
-  }
+}
 
 .shantae {
  margin-left: 890px;
@@ -320,32 +320,42 @@ display: block;
  border-radius: 25px;
 }
 
+.texto {
+ margin-top: -1070px;
+ margin-left: 300px;
+ display: block;
+ width: 100px;
+
+}
+
+
+
 
   
- .linkas{
+.linkas{
  margin-left: 1000px;
  width: 200px;
 
- }
- 
+}
 
 
 
-  .splatoon {
+
+.splatoon {
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 10px;
     font-weight: bold;
     transition: background-color 0.2s;
-  }
+}
   
-  .shantae{
+.shantae{
     background-color: #000000;
   }
   
 
 
-  .barra-opciones {
+.barra-opciones {
     position: absolute;
     bottom: 0;
     left: 0;
